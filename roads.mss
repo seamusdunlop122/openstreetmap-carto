@@ -1,7 +1,7 @@
 /* For the main linear features, such as roads and railways. */
 
 //road colors for major roads were generated with scripts/generate_road_colors.py
-@motorway-fill: #e892a2; // Lch(70,35,10), error 0.5
+@motorway-fill: #08750e; // Lch(70,35,10), error 0.5
 @trunk-fill: #f9b29c; // Lch(79,33,42), error 0.7
 @primary-fill: #fcd6a4; // Lch(88,31,74), error 1.7
 @secondary-fill: #f7fabf; // Lch(97,29,106), error 1.7
